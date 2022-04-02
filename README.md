@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm Liwen :)
+I'm L :) 
 
 Full-stack web developer with a past life in all sorts of professional services firms, including Accounting, Law and Leadership Advisory. I get my thrill from solving problems and making things work. 
 
